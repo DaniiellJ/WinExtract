@@ -1,1 +1,1 @@
-Utililado em uma apresentação de trabalho, o WinExtract foi um pequeno protótipo feito em python, que basicamente comprime ou extrai diversos arquivos de forma indivial (arquivos separados) ou de forma uníca (todos arquivos em um pasta).
+Utilizado em uma apresentação de trabalho, o WinExtract é um protótipo desenvolvido em Python para compressão e extração de arquivos. Ele permite operar de duas formas: individualmente (arquivos separados) ou em conjunto (todos os arquivos de uma pasta em um único arquivo compactado).
